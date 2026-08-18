@@ -1,3 +1,3 @@
 - Add readme
-- Go over security analysis for current dokcer image
+- Go over security analysis for current docker image
 - ...
